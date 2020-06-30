@@ -37,7 +37,11 @@ HASP USB key must be activated for FocusControl (1.0).
 
 If no HASP key is detected, an error would prompt.
 
+![](https://github.com/ospqul/FocuxPCEmbeddingDemo/blob/master/resources/NoHASPKey.PNG)
+
 If software is installed correctly, a "KeyTool" software is also installed. You could use "KeyTool" to check the if FocusControl is activated.
+
+![](https://github.com/ospqul/FocuxPCEmbeddingDemo/blob/master/resources/keytool.PNG)
 
 #### Add Reference
 
